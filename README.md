@@ -1,5 +1,11 @@
 # Household Power Consumption Analysis: Time Series Forecasting, Fourier Transform, Multiple Linear Regression & Hypothesis Testing
 ----
+The objective of this project is to recognize patterns and trends in household energy usage by
+examining historical power consumption data, improve energy management with predictive
+insights, and detect irregularities in consumption behavior. It will assess
+how voltage and current levels affect power usage, offering practical suggestions to improve
+energy efficiency and optimize grid operation.
+
 This project performs a comprehensive analysis of household power consumption using several advanced data science techniques:
 - **Time Series Forecasting:** To predict future consumption trends and identify seasonal patterns.
 - **Fourier Transform:** To decompose the power consumption signal into its frequency components, revealing dominant cycles.
