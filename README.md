@@ -35,19 +35,6 @@ This project performs a comprehensive analysis of household power consumption us
 - Uses statistical tests (e.g., t-tests, ANOVA) to confirm the significance of observed trends.
 - Validates the model outcomes and data-driven insights.
 
-## Analysis & Findings
-- **Time Series Analysis:**  
-  Forecasting models captured both seasonal and trend components, leading to accurate predictions of future consumption.
-  
-- **Frequency Analysis:**  
-  Fourier transform analysis revealed strong periodicities, consistent with expected daily and weekly cycles.
-  
-- **Regression Modeling:**  
-  The MLR approach identified key factors that significantly affect power consumption, offering actionable insights.
-  
-- **Statistical Validation:**  
-  Hypothesis tests confirmed that the observed differences and trends are statistically significant, supporting the robustness of the findings.
-
   
 ## Data Overview
 - **Source:** UCI Machine Learning Repository
@@ -101,6 +88,19 @@ This project performs a comprehensive analysis of household power consumption us
 - **Findings:**  
   The null hypothesis was rejected, confirming that average Global Active Power is higher on weekends.
 
+---
+## Analysis & Findings
+- **Time Series Analysis:**  
+  Forecasting models captured both seasonal and trend components, leading to accurate predictions of future consumption.
+  
+- **Frequency Analysis:**  
+  Fourier transform analysis revealed strong periodicities, consistent with expected daily and weekly cycles.
+  
+- **Regression Modeling:**  
+  The MLR approach identified key factors that significantly affect power consumption, offering actionable insights.
+  
+- **Statistical Validation:**  
+  Hypothesis tests confirmed that the observed differences and trends are statistically significant, supporting the robustness of the findings.
 ---
 
 ## Business Insights & Recommendations
